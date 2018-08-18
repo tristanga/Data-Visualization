@@ -1,2 +1,2 @@
 # Data-Visualization 
-Visualization Techniques
+Data Visualization Projects
