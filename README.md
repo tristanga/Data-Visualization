@@ -1,2 +1,2 @@
-# Data-Visualizations
+# Data-Visualization 
 Visualization Techniques
