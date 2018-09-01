@@ -9,7 +9,7 @@ Topic 1 - Simple Charts library
 
 3) Histograms with Python
 
-4) Histogram with R
+4) Histograms with R
 
 Topic 2 - Complex Charts Examples 
 
