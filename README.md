@@ -1,11 +1,11 @@
 # Data-Visualization 
 Data Visualization Projects
 
-Topic 1 - Simple Charts library
+Topic 1 - Simple Charts Examples
 
 1) LinePlots with Python
 
-2) LinePlots with R
+2) LinePlots with R 
 
 3) Histograms with Python
 
